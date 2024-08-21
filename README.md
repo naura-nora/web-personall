@@ -45,7 +45,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome-to-project!">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=By SIJAX kece dan ganteng">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=By NORA">
 </div>
 
 
